@@ -1,0 +1,299 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8e06009e-5202-400e-b3fd-9b2998648916" name="Default Changelist" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/node-test-task.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/controllers/allocateButlers.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/server.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/utils/json.js" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="17">
+              <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
+    <package-json value="$PROJECT_DIR$/package.json" />
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1370" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectId" id="1WVgik3lODxLg9QqpJnuFWvewIa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="node-test-task" type="b2602c69:ProjectViewProjectNode" />
+              <item name="node-test-task" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="test task" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="server.js" working-dir="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e06009e-5202-400e-b3fd-9b2998648916" name="Default Changelist" comment="" />
+      <created>1579240305028</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579240305028</updated>
+      <workItem from="1579240307662" duration="21000" />
+      <workItem from="1579240330028" duration="16020000" />
+      <workItem from="1579258898104" duration="241000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="241000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24968314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.45945945" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="291" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1579240904330">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="291" y="120" key="#com.intellij.execution.impl.EditConfigurationsDialog/67.27.1533.873@67.27.1533.873" timestamp="1579240904330" />
+    <state x="591" y="166" key="#xdebugger.evaluate" timestamp="1579241374645">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="591" y="166" key="#xdebugger.evaluate/67.27.1533.873@67.27.1533.873" timestamp="1579241374645" />
+    <state width="743" height="466" key="DebuggerActiveHint" timestamp="1579252553154">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="743" height="466" key="DebuggerActiveHint/67.27.1533.873@67.27.1533.873" timestamp="1579252553154" />
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl" timestamp="1579240747493">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="616" y="220" width="424" height="484" key="FileChooserDialogImpl/67.27.1533.873@67.27.1533.873" timestamp="1579240747493" />
+    <state width="1510" height="310" key="GridCell.Tab.0.bottom" timestamp="1579258062727">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.0.bottom/67.27.1533.873@67.27.1533.873" timestamp="1579258062727" />
+    <state width="1510" height="310" key="GridCell.Tab.0.center" timestamp="1579258062726">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.0.center/67.27.1533.873@67.27.1533.873" timestamp="1579258062726" />
+    <state width="1510" height="310" key="GridCell.Tab.0.left" timestamp="1579258062726">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.0.left/67.27.1533.873@67.27.1533.873" timestamp="1579258062726" />
+    <state width="1510" height="310" key="GridCell.Tab.0.right" timestamp="1579258062726">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.0.right/67.27.1533.873@67.27.1533.873" timestamp="1579258062726" />
+    <state width="1510" height="310" key="GridCell.Tab.1.bottom" timestamp="1579258062729">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.1.bottom/67.27.1533.873@67.27.1533.873" timestamp="1579258062729" />
+    <state width="1510" height="310" key="GridCell.Tab.1.center" timestamp="1579258062728">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.1.center/67.27.1533.873@67.27.1533.873" timestamp="1579258062728" />
+    <state width="1510" height="310" key="GridCell.Tab.1.left" timestamp="1579258062727">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.1.left/67.27.1533.873@67.27.1533.873" timestamp="1579258062727" />
+    <state width="1510" height="310" key="GridCell.Tab.1.right" timestamp="1579258062728">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.1.right/67.27.1533.873@67.27.1533.873" timestamp="1579258062728" />
+    <state width="1510" height="310" key="GridCell.Tab.2.bottom" timestamp="1579258062730">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.2.bottom/67.27.1533.873@67.27.1533.873" timestamp="1579258062730" />
+    <state width="1510" height="310" key="GridCell.Tab.2.center" timestamp="1579258062730">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.2.center/67.27.1533.873@67.27.1533.873" timestamp="1579258062730" />
+    <state width="1510" height="310" key="GridCell.Tab.2.left" timestamp="1579258062729">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.2.left/67.27.1533.873@67.27.1533.873" timestamp="1579258062729" />
+    <state width="1510" height="310" key="GridCell.Tab.2.right" timestamp="1579258062730">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.2.right/67.27.1533.873@67.27.1533.873" timestamp="1579258062730" />
+    <state width="1510" height="310" key="GridCell.Tab.3.bottom" timestamp="1579258062732">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.3.bottom/67.27.1533.873@67.27.1533.873" timestamp="1579258062732" />
+    <state width="1510" height="310" key="GridCell.Tab.3.center" timestamp="1579258062731">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.3.center/67.27.1533.873@67.27.1533.873" timestamp="1579258062731" />
+    <state width="1510" height="310" key="GridCell.Tab.3.left" timestamp="1579258062731">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.3.left/67.27.1533.873@67.27.1533.873" timestamp="1579258062731" />
+    <state width="1510" height="310" key="GridCell.Tab.3.right" timestamp="1579258062732">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state width="1510" height="310" key="GridCell.Tab.3.right/67.27.1533.873@67.27.1533.873" timestamp="1579258062732" />
+    <state x="167" y="125" width="1313" height="675" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1579258648940">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1313" height="675" maximized="true" key="com.intellij.history.integration.ui.views.FileHistoryDialog/67.27.1533.873@67.27.1533.873" timestamp="1579258648940" />
+    <state x="167" y="125" width="1333" height="675" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog" timestamp="1579258539047">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="167" y="125" width="1333" height="675" key="com.intellij.history.integration.ui.views.SelectionHistoryDialog/67.27.1533.873@67.27.1533.873" timestamp="1579258539047" />
+    <state x="368" y="201" width="920" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2" timestamp="1579254720794">
+      <screen x="67" y="27" width="1533" height="873" />
+    </state>
+    <state x="368" y="201" width="920" height="522" key="com.intellij.xdebugger.impl.breakpoints.ui.BreakpointsDialogFactory$2/67.27.1533.873@67.27.1533.873" timestamp="1579254720794" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="13" lean-forward="false" selection-start-line="1" selection-start-column="13" selection-end-line="1" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
